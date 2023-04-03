@@ -25,8 +25,8 @@
            <title> Saveetha Engineering College</title>
       </head>
       <body bgcolor="orange" text="black">
-   <h1 style="text-align:center;">Saveetha Engineering College</h1> 
-     <hr width="px;" color="red">
+   <h1 align:"center">Saveetha Engineering College</h1> 
+     <hr size="8" color="red">
    <ol type="A">
      <li>Agricultural Engineering</li>
      <li>Computer Science And Engineering</li>
