@@ -19,7 +19,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-'''
+~~~
 <html>
       <head>
            <title> Saveetha Engineering College</title>
@@ -43,13 +43,11 @@
    </ol>
 </body>
 </html>
-
-'''
+~~~
 
 ## OUTPUT
+![EX NO 2](https://user-images.githubusercontent.com/127816632/229416790-85d5b609-51a7-475e-9882-4c3313d7d80d.png)
 
-![Screenshot (1)](https://user-images.githubusercontent.com/127816632/229048955-d13e0745-8b90-4af4-be8f-e01a4bb869e0.png)
-![Screenshot (2)](https://user-images.githubusercontent.com/127816632/229049075-f75dc4f0-372b-4889-bfac-0a9d9c0f742c.png)
 
 
 ## RESULT
