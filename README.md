@@ -24,7 +24,7 @@
       <head>
            <title> Saveetha Engineering College</title>
       </head>
-      <body bgcolor="cyan" text="black">
+      <body bgcolor="orange" text="black">
    <h1 style="text-align:center;">Saveetha Engineering College</h1> 
      <hr width="px;" color="red">
    <ol type="A">
